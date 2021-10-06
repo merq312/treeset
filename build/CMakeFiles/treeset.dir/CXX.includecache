@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/merc312/Desktop/treeset/main.cpp
+treeset.h
+/home/merc312/Desktop/treeset/treeset.h
+
+/home/merc312/Desktop/treeset/treeset.cpp
+treeset.h
+/home/merc312/Desktop/treeset/treeset.h
+
+/home/merc312/Desktop/treeset/treeset.h
+std::iostream
+-
+memory
+-
+vector
+-
+
+/home/merc312/Desktop/treeset/treesetiter.cpp
+treeset.h
+/home/merc312/Desktop/treeset/treeset.h
+

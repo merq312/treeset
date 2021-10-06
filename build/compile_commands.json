@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/merc3/Documents/Code/cpp/treeset/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\treeset.dir\\treeset.cpp.obj -c C:\\Users\\merc3\\Documents\\Code\\cpp\\treeset\\treeset.cpp",
+  "file": "C:\\Users\\merc3\\Documents\\Code\\cpp\\treeset\\treeset.cpp"
+},
+{
+  "directory": "C:/Users/merc3/Documents/Code/cpp/treeset/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\treeset.dir\\treesetiter.cpp.obj -c C:\\Users\\merc3\\Documents\\Code\\cpp\\treeset\\treesetiter.cpp",
+  "file": "C:\\Users\\merc3\\Documents\\Code\\cpp\\treeset\\treesetiter.cpp"
+},
+{
+  "directory": "C:/Users/merc3/Documents/Code/cpp/treeset/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\treeset.dir\\main.cpp.obj -c C:\\Users\\merc3\\Documents\\Code\\cpp\\treeset\\main.cpp",
+  "file": "C:\\Users\\merc3\\Documents\\Code\\cpp\\treeset\\main.cpp"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/treeset.dir/treeset.cpp.o CMakeFiles/treeset.dir/treesetiter.cpp.o CMakeFiles/treeset.dir/main.cpp.o  -o treeset 

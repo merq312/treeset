@@ -1,0 +1,11 @@
+# ninja log v5
+24	738	6552554897740672	CMakeFiles/treeset.dir/main.cpp.obj	9a110e5d4492babc
+2	651	6552555047979236	CMakeFiles/treeset.dir/treeset.cpp.obj	594454b0a3a74548
+2	541	6552554895740699	CMakeFiles/treeset.dir/treesetiter.cpp.obj	ec6b07ce4d592920
+652	795	6552555049268898	treeset.exe	191454e5122fcfd5
+3	386	6552560116585304	build.ninja	c39222f1ac312e4f
+1	385	6552560116585304	build.ninja	c39222f1ac312e4f
+4	596	6552560123905299	CMakeFiles/treeset.dir/treesetiter.cpp.obj	ec6b07ce4d592920
+7	843	6552560126336834	CMakeFiles/treeset.dir/main.cpp.obj	9a110e5d4492babc
+0	897	6552560126922397	CMakeFiles/treeset.dir/treeset.cpp.obj	594454b0a3a74548
+898	1041	6552560128211770	treeset.exe	191454e5122fcfd5
